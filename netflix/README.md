@@ -14,12 +14,14 @@ Project consists of contents added to Netflix from 2008 to 2021. The oldest cont
 
 - <b>Windows</b> 
 
+<!--
 <h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
 <img src="https://imgur.com/a/XKT7fpo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+-->
 </p>
 
 <!--
