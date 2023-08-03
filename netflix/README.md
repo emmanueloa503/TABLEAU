@@ -18,7 +18,7 @@ Project consists of contents added to Netflix from 2008 to 2021. The oldest cont
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/j8ZHJKG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/XKT7fpo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
