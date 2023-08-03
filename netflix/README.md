@@ -14,7 +14,7 @@ Project consists of contents added to Netflix from 2008 to 2021. The oldest cont
 
 - <b>Windows</b> 
 
-<h2>Program walk-through:</h2>
+<h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
